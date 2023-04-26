@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="NameYearning.cpp" />
+    <ClCompile Include="Park.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
