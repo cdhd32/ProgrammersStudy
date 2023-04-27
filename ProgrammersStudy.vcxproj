@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="NameYearning.cpp" />
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
+    <ClCompile Include="remain1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
