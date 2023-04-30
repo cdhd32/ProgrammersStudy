@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="KeyBoard.cpp" />
+    <ClCompile Include="Knight.cpp" />
     <ClCompile Include="NameYearning.cpp" />
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
