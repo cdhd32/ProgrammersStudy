@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Absolutes.cpp" />
     <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="FailRate.cpp" />
     <ClCompile Include="HandPhone.cpp" />
