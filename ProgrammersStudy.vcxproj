@@ -134,6 +134,7 @@
     <ClCompile Include="KeyBoard.cpp" />
     <ClCompile Include="Knight.cpp" />
     <ClCompile Include="NameYearning.cpp" />
+    <ClCompile Include="NumberWord.cpp" />
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="remain1.cpp" />
