@@ -130,6 +130,7 @@
     <ClCompile Include="Absolutes.cpp" />
     <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="FailRate.cpp" />
+    <ClCompile Include="HallOfFame1.cpp" />
     <ClCompile Include="HandPhone.cpp" />
     <ClCompile Include="KeyBoard.cpp" />
     <ClCompile Include="Knight.cpp" />
