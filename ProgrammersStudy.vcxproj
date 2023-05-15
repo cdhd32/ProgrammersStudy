@@ -134,6 +134,7 @@
     <ClCompile Include="HallOfFame1.cpp" />
     <ClCompile Include="Hamburger.cpp" />
     <ClCompile Include="HandPhone.cpp" />
+    <ClCompile Include="HarshadNumber.cpp" />
     <ClCompile Include="KeyBoard.cpp" />
     <ClCompile Include="Knight.cpp" />
     <ClCompile Include="NameYearning.cpp" />
@@ -143,6 +144,7 @@
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="remain1.cpp" />
     <ClCompile Include="SameNumber.cpp" />
+    <ClCompile Include="Uniform.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
