@@ -17,6 +17,7 @@ string solution(vector<int> food) {
 
     for (int i = 1; i < food.size(); i++)
     {
+        //À½½Ä °³¼ö°¡ È¦¼ö¸é 1À» »©°í 2·Î ³ª´«´Ù.
         int iterCount = food[i] % 2 == 1 ? (food[i] - 1) / 2 : food[i] / 2;
         for (int j = 0; j < iterCount; j++)
         {
