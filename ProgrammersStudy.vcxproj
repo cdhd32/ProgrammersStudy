@@ -138,6 +138,7 @@
     <ClCompile Include="HarshadNumber.cpp" />
     <ClCompile Include="KeyBoard.cpp" />
     <ClCompile Include="Knight.cpp" />
+    <ClCompile Include="Mumble(2).cpp" />
     <ClCompile Include="NameYearning.cpp" />
     <ClCompile Include="NumberWord.cpp" />
     <ClCompile Include="Park.cpp" />
