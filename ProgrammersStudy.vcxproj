@@ -131,6 +131,7 @@
     <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="FailRate.cpp" />
     <ClCompile Include="FoodFight.cpp" />
+    <ClCompile Include="FruitSeller.cpp" />
     <ClCompile Include="GaneralCola.cpp" />
     <ClCompile Include="HallOfFame1.cpp" />
     <ClCompile Include="Hamburger.cpp" />
