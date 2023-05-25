@@ -78,5 +78,8 @@
     <ClCompile Include="FruitSeller.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="y2016.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
