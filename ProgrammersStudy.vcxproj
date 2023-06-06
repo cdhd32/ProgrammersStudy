@@ -149,6 +149,7 @@
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="remain1.cpp" />
     <ClCompile Include="SameNumber.cpp" />
+    <ClCompile Include="SplitString.cpp" />
     <ClCompile Include="Uniform.cpp" />
     <ClCompile Include="y2016.cpp" />
   </ItemGroup>
