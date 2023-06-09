@@ -96,5 +96,11 @@
     <ClCompile Include="StringSort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Cards.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="primes.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
