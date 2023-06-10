@@ -153,6 +153,7 @@
     <ClCompile Include="SameNumber.cpp" />
     <ClCompile Include="SplitString.cpp" />
     <ClCompile Include="StringSort.cpp" />
+    <ClCompile Include="SubString.cpp" />
     <ClCompile Include="TestTest.cpp" />
     <ClCompile Include="Uniform.cpp" />
     <ClCompile Include="y2016.cpp" />
