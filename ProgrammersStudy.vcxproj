@@ -146,6 +146,7 @@
     <ClCompile Include="Mumble(2).cpp" />
     <ClCompile Include="NameYearning.cpp" />
     <ClCompile Include="NumberWord.cpp" />
+    <ClCompile Include="parentheses.cpp" />
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="Ponkemon.cpp" />
     <ClCompile Include="primes.cpp" />
