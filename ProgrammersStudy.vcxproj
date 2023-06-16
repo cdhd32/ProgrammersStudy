@@ -140,6 +140,7 @@
     <ClCompile Include="HandPhone.cpp" />
     <ClCompile Include="HarshadNumber.cpp" />
     <ClCompile Include="InsufficientMoney.cpp" />
+    <ClCompile Include="JadenCase.cpp" />
     <ClCompile Include="KeyBoard.cpp" />
     <ClCompile Include="Knight.cpp" />
     <ClCompile Include="MinRect.cpp" />
