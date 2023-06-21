@@ -1,124 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ProgrammersStudy.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="NameYearning.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Park.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="remain1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Collatz.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="KeyBoard.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="SameNumber.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Knight.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="HandPhone.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="FailRate.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Absolutes.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="NumberWord.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="HallOfFame1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Hamburger.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="GaneralCola.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Ponkemon.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Uniform.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="HarshadNumber.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="FoodFight.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Mumble(2).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="FruitSeller.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="y2016.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CaesarCipher.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MinRect.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="SplitString.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TestTest.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="StringSort.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Cards.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="primes.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="SubString.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ThreeMusketeers.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="InsufficientMoney.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="parentheses.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="JadenCase.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="SecretMap.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <ClCompile Include="Absolutes.cpp" />
+    <ClCompile Include="CaesarCipher.cpp" />
+    <ClCompile Include="Cards.cpp" />
+    <ClCompile Include="Collatz.cpp" />
+    <ClCompile Include="FailRate.cpp" />
+    <ClCompile Include="FoodFight.cpp" />
+    <ClCompile Include="FruitSeller.cpp" />
+    <ClCompile Include="GaneralCola.cpp" />
+    <ClCompile Include="HallOfFame1.cpp" />
+    <ClCompile Include="Hamburger.cpp" />
+    <ClCompile Include="HandPhone.cpp" />
+    <ClCompile Include="HarshadNumber.cpp" />
+    <ClCompile Include="InsufficientMoney.cpp" />
+    <ClCompile Include="JadenCase.cpp" />
+    <ClCompile Include="KeyBoard.cpp" />
+    <ClCompile Include="Knight.cpp" />
+    <ClCompile Include="MinRect.cpp" />
+    <ClCompile Include="Mumble(2).cpp" />
+    <ClCompile Include="NameYearning.cpp" />
+    <ClCompile Include="NumberWord.cpp" />
+    <ClCompile Include="parentheses.cpp" />
+    <ClCompile Include="Park.cpp" />
+    <ClCompile Include="Ponkemon.cpp" />
+    <ClCompile Include="PresentationOfNumber.cpp" />
+    <ClCompile Include="primes.cpp" />
+    <ClCompile Include="ProgrammersStudy.cpp" />
+    <ClCompile Include="remain1.cpp" />
+    <ClCompile Include="SameNumber.cpp" />
+    <ClCompile Include="SecretMap.cpp" />
+    <ClCompile Include="SplitString.cpp" />
+    <ClCompile Include="StringSort.cpp" />
+    <ClCompile Include="SubString.cpp" />
+    <ClCompile Include="TestTest.cpp" />
+    <ClCompile Include="ThreeMusketeers.cpp" />
+    <ClCompile Include="Uniform.cpp" />
+    <ClCompile Include="y2016.cpp" />
+    <ClCompile Include="WestKim.cpp" />
   </ItemGroup>
 </Project>
