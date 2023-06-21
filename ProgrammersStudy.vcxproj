@@ -155,6 +155,7 @@
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="remain1.cpp" />
     <ClCompile Include="SameNumber.cpp" />
+    <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="SplitString.cpp" />
     <ClCompile Include="StringSort.cpp" />
     <ClCompile Include="SubString.cpp" />
