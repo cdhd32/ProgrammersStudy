@@ -144,6 +144,7 @@
     <ClCompile Include="JadenCase.cpp" />
     <ClCompile Include="KeyBoard.cpp" />
     <ClCompile Include="Knight.cpp" />
+    <ClCompile Include="lotto645.cpp" />
     <ClCompile Include="MinRect.cpp" />
     <ClCompile Include="Mumble(2).cpp" />
     <ClCompile Include="NameYearning.cpp" />
