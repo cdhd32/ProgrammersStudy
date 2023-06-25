@@ -40,6 +40,6 @@
     <ClCompile Include="WestKim.cpp" />
     <ClCompile Include="CloseChar.cpp" />
     <ClCompile Include="lotto645.cpp" />
-    <ClCompile Include="MunNumber.cpp" />
+    <ClCompile Include="MinMaxNumber.cpp" />
   </ItemGroup>
 </Project>

@@ -132,7 +132,7 @@
     <ClCompile Include="Cards.cpp" />
     <ClCompile Include="CloseChar.cpp" />
     <ClCompile Include="Collatz.cpp" />
-    <ClCompile Include="MunNumber.cpp" />
+    <ClCompile Include="MinMaxNumber.cpp" />
     <ClCompile Include="FailRate.cpp" />
     <ClCompile Include="FoodFight.cpp" />
     <ClCompile Include="FruitSeller.cpp" />
