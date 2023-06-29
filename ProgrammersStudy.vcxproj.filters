@@ -41,5 +41,8 @@
     <ClCompile Include="CloseChar.cpp" />
     <ClCompile Include="lotto645.cpp" />
     <ClCompile Include="MinMaxNumber.cpp" />
+    <ClCompile Include="DollCrane.cpp" />
+    <ClCompile Include="BinConvert.cpp" />
+    <ClCompile Include="Budget.cpp" />
   </ItemGroup>
 </Project>

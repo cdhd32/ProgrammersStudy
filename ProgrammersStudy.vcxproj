@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Absolutes.cpp" />
+    <ClCompile Include="BinConvert.cpp" />
     <ClCompile Include="CaesarCipher.cpp" />
     <ClCompile Include="Cards.cpp" />
     <ClCompile Include="CloseChar.cpp" />
     <ClCompile Include="Collatz.cpp" />
+    <ClCompile Include="DollCrane.cpp" />
     <ClCompile Include="MinMaxNumber.cpp" />
     <ClCompile Include="FailRate.cpp" />
     <ClCompile Include="FoodFight.cpp" />
@@ -154,6 +156,7 @@
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="Ponkemon.cpp" />
     <ClCompile Include="PresentationOfNumber.cpp" />
+    <ClCompile Include="Budget.cpp" />
     <ClCompile Include="primes.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="remain1.cpp" />
