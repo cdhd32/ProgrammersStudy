@@ -167,6 +167,7 @@
     <ClCompile Include="SubString.cpp" />
     <ClCompile Include="TestTest.cpp" />
     <ClCompile Include="ThreeMusketeers.cpp" />
+    <ClCompile Include="TwoPick.cpp" />
     <ClCompile Include="Uniform.cpp" />
     <ClCompile Include="WestKim.cpp" />
     <ClCompile Include="y2016.cpp" />
