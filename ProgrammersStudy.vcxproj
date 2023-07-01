@@ -163,6 +163,7 @@
     <ClCompile Include="SameNumber.cpp" />
     <ClCompile Include="SecretMap.cpp" />
     <ClCompile Include="SplitString.cpp" />
+    <ClCompile Include="StrangeChar.cpp" />
     <ClCompile Include="StringSort.cpp" />
     <ClCompile Include="SubString.cpp" />
     <ClCompile Include="TestTest.cpp" />

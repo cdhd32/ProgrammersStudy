@@ -45,5 +45,6 @@
     <ClCompile Include="BinConvert.cpp" />
     <ClCompile Include="Budget.cpp" />
     <ClCompile Include="TwoPick.cpp" />
+    <ClCompile Include="StrangeChar.cpp" />
   </ItemGroup>
 </Project>
