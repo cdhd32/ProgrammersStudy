@@ -158,6 +158,7 @@
     <ClCompile Include="Ponkemon.cpp" />
     <ClCompile Include="PresentationOfNumber.cpp" />
     <ClCompile Include="Budget.cpp" />
+    <ClCompile Include="DivAddtion.cpp" />
     <ClCompile Include="primes.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="remain1.cpp" />

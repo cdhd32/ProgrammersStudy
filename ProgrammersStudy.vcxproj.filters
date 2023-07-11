@@ -47,5 +47,6 @@
     <ClCompile Include="TwoPick.cpp" />
     <ClCompile Include="StrangeChar.cpp" />
     <ClCompile Include="Paint.cpp" />
+    <ClCompile Include="DivAddtion.cpp" />
   </ItemGroup>
 </Project>
