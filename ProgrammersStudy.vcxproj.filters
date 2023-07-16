@@ -48,5 +48,6 @@
     <ClCompile Include="StrangeChar.cpp" />
     <ClCompile Include="Paint.cpp" />
     <ClCompile Include="DivAddtion.cpp" />
+    <ClCompile Include="BiggerNum.cpp" />
   </ItemGroup>
 </Project>
