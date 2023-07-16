@@ -162,6 +162,7 @@
     <ClCompile Include="DivAddtion.cpp" />
     <ClCompile Include="primes.cpp" />
     <ClCompile Include="ProgrammersStudy.cpp" />
+    <ClCompile Include="RelayWordcpp.cpp" />
     <ClCompile Include="remain1.cpp" />
     <ClCompile Include="SameNumber.cpp" />
     <ClCompile Include="SecretMap.cpp" />

@@ -49,5 +49,6 @@
     <ClCompile Include="Paint.cpp" />
     <ClCompile Include="DivAddtion.cpp" />
     <ClCompile Include="BiggerNum.cpp" />
+    <ClCompile Include="RelayWordcpp.cpp" />
   </ItemGroup>
 </Project>
