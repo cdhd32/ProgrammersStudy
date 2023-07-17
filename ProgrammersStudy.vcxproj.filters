@@ -50,5 +50,6 @@
     <ClCompile Include="DivAddtion.cpp" />
     <ClCompile Include="BiggerNum.cpp" />
     <ClCompile Include="RelayWordcpp.cpp" />
+    <ClCompile Include="MakeMin.cpp" />
   </ItemGroup>
 </Project>
