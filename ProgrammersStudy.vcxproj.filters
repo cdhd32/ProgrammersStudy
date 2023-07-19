@@ -51,5 +51,6 @@
     <ClCompile Include="BiggerNum.cpp" />
     <ClCompile Include="RelayWordcpp.cpp" />
     <ClCompile Include="MakeMin.cpp" />
+    <ClCompile Include="fibonacci.cpp" />
   </ItemGroup>
 </Project>

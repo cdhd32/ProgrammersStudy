@@ -135,6 +135,7 @@
     <ClCompile Include="CloseChar.cpp" />
     <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="DollCrane.cpp" />
+    <ClCompile Include="fibonacci.cpp" />
     <ClCompile Include="MakeMin.cpp" />
     <ClCompile Include="MinMaxNumber.cpp" />
     <ClCompile Include="FailRate.cpp" />
