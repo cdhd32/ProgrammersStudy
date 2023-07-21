@@ -52,5 +52,6 @@
     <ClCompile Include="RelayWordcpp.cpp" />
     <ClCompile Include="MakeMin.cpp" />
     <ClCompile Include="fibonacci.cpp" />
+    <ClCompile Include="RepeatBinConvert.cpp" />
   </ItemGroup>
 </Project>
