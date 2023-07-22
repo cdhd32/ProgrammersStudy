@@ -137,6 +137,7 @@
     <ClCompile Include="DollCrane.cpp" />
     <ClCompile Include="fibonacci.cpp" />
     <ClCompile Include="MakeMin.cpp" />
+    <ClCompile Include="MakePrime.cpp" />
     <ClCompile Include="MinMaxNumber.cpp" />
     <ClCompile Include="FailRate.cpp" />
     <ClCompile Include="FoodFight.cpp" />
