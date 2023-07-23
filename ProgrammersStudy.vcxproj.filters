@@ -54,5 +54,6 @@
     <ClCompile Include="fibonacci.cpp" />
     <ClCompile Include="RepeatBinConvert.cpp" />
     <ClCompile Include="MakePrime.cpp" />
+    <ClCompile Include="RemovePair.cpp" />
   </ItemGroup>
 </Project>

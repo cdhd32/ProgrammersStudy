@@ -167,6 +167,7 @@
     <ClCompile Include="ProgrammersStudy.cpp" />
     <ClCompile Include="RelayWordcpp.cpp" />
     <ClCompile Include="remain1.cpp" />
+    <ClCompile Include="RemovePair.cpp" />
     <ClCompile Include="RepeatBinConvert.cpp" />
     <ClCompile Include="SameNumber.cpp" />
     <ClCompile Include="SecretMap.cpp" />
