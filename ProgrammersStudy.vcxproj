@@ -132,6 +132,7 @@
     <ClCompile Include="BinConvert.cpp" />
     <ClCompile Include="CaesarCipher.cpp" />
     <ClCompile Include="Cards.cpp" />
+    <ClCompile Include="Carpet.cpp" />
     <ClCompile Include="CloseChar.cpp" />
     <ClCompile Include="Collatz.cpp" />
     <ClCompile Include="DollCrane.cpp" />

@@ -55,5 +55,6 @@
     <ClCompile Include="RepeatBinConvert.cpp" />
     <ClCompile Include="MakePrime.cpp" />
     <ClCompile Include="RemovePair.cpp" />
+    <ClCompile Include="Carpet.cpp" />
   </ItemGroup>
 </Project>
