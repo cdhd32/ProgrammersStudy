@@ -56,5 +56,6 @@
     <ClCompile Include="MakePrime.cpp" />
     <ClCompile Include="RemovePair.cpp" />
     <ClCompile Include="Carpet.cpp" />
+    <ClCompile Include="PairNum.cpp" />
   </ItemGroup>
 </Project>

@@ -158,6 +158,7 @@
     <ClCompile Include="NameYearning.cpp" />
     <ClCompile Include="NumberWord.cpp" />
     <ClCompile Include="Paint.cpp" />
+    <ClCompile Include="PairNum.cpp" />
     <ClCompile Include="parentheses.cpp" />
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="Ponkemon.cpp" />
