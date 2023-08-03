@@ -57,5 +57,6 @@
     <ClCompile Include="RemovePair.cpp" />
     <ClCompile Include="Carpet.cpp" />
     <ClCompile Include="PairNum.cpp" />
+    <ClCompile Include="SequenceSum.cpp" />
   </ItemGroup>
 </Project>

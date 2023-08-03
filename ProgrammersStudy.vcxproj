@@ -173,6 +173,7 @@
     <ClCompile Include="RepeatBinConvert.cpp" />
     <ClCompile Include="SameNumber.cpp" />
     <ClCompile Include="SecretMap.cpp" />
+    <ClCompile Include="SequenceSum.cpp" />
     <ClCompile Include="SplitString.cpp" />
     <ClCompile Include="StrangeChar.cpp" />
     <ClCompile Include="StringSort.cpp" />
